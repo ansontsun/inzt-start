@@ -41,16 +41,16 @@ const CARDS = [
     color: "#FF4500",
   },
   {
-    name: "Bilibili",
-    icon: "ri-bilibili-fill",
-    link: "https://www.bilibili.com/",
-    color: "#2596BE",
-  },
-  {
     name: "YouTube",
     icon: "ri-youtube-fill",
     link: "https://www.youtube.com/",
     color: "#FF0000",
+  },
+  {
+    name: "Bilibili",
+    icon: "ri-bilibili-fill",
+    link: "https://www.bilibili.com/",
+    color: "#2596BE",
   },
 ];
 
