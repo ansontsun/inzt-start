@@ -55,7 +55,7 @@ const CARDS = [
   {
     name: "iooi home",
     icon: "ri-home-smile-fill",
-    link: "https:/www.iooi.ca/",
+    link: "https://www.iooi.ca/",
   },
 ];
 
