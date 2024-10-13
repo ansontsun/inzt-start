@@ -52,6 +52,11 @@ const CARDS = [
     link: "https://www.bilibili.com/",
     color: "#2596BE",
   },
+  {
+    name: "iooi home",
+    icon: "ri-home-smile-fill",
+    link: "https:/www.iooi.ca/",
+  },
 ];
 
 /* -------------------------------------------------------- */
