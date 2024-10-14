@@ -61,6 +61,7 @@ const CARDS = [
     name: "iooi cloud",
     icon: "ri-cloud-fill",
     link: "https://cloud.iooi.ca/",
+    color: "#01679d",
   },
 ];
 
