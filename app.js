@@ -57,6 +57,11 @@ const CARDS = [
     icon: "ri-home-smile-fill",
     link: "https://www.iooi.ca/",
   },
+  {
+    name: "iooi cloud",
+    icon: "ri-cloud-fill",
+    link: "https://cloud.iooi.ca/",
+  },
 ];
 
 /* -------------------------------------------------------- */
