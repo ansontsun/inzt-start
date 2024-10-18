@@ -53,14 +53,14 @@ const CARDS = [
     color: "#2596BE",
   },
   {
-    name: "iooi home",
+    name: "INZT Home",
     icon: "ri-home-smile-fill",
-    link: "https://www.iooi.ca/",
+    link: "https://www.inzt.com/",
   },
   {
-    name: "iooi cloud",
+    name: "INZT Cloud",
     icon: "ri-cloud-fill",
-    link: "https://cloud.iooi.ca/",
+    link: "https://cloud.inzt.com/",
     color: "#01679d",
   },
 ];
